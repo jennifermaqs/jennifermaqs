@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/jennifermaqs">
-    <img src="https://c.tenor.com/mimo5_nJ0oYAAAAC/cute-cutecore.gif" width="250px" alt="Gatinho animado dirigindo um carro"/>
+    <img src="https://i.imgur.com/2vtHgfI.gif" width="250px" alt="Gatinho animado dirigindo um carro"/>
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 ### ✨ Sobre mim
 
-Sou estudante de Ciência da Computação. Este repositório é um reflexo da minha jornada acadêmica, reunindo projetos desenvolvidos em diversas disciplinas.
+ Sou estudante de Ciência da Computação. Este repositório é um reflexo da minha jornada acadêmica, reunindo projetos desenvolvidos em diversas disciplinas.
 
 ---
 
@@ -45,7 +45,7 @@ Sou estudante de Ciência da Computação. Este repositório é um reflexo da mi
 | **Programação Funcional** | Exercícios e práticas com Haskell | *Em breve...* |
 | **Fundamentos de Banco de Dados** | Códigos SQL com PostgreSQL | *Em breve...* |
 
-<p align="center"><i>Novos projetos serão adicionados conforme meu avanço no curso! 🚀</i></p>
+<p align="center"><i>Novos projetos serão adicionados conforme meu avanço no curso! </i></p>
 
 ---
 
