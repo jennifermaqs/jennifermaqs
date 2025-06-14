@@ -1,12 +1,19 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9370DB&center=true&width=435&lines=Oii!+Sou+a+Jennifer+%E2%9C%A8" alt="Typing SVG" /></a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=9370DB&width=400&lines=Oii!+✨;Sou+a+Jennifer+Marques" alt="Oii! Sou a Jennifer Marques" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jennifermaqs">
+          <img src="https://i.imgur.com/MeMgEf1.gif" width="150px" alt="Gatinho animado dirigindo um carro"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<p align="center">
-  <a href="https://github.com/jennifermaqs">
-    <img src="https://i.imgur.com/2vtHgfI.gif" width="250px" alt="Gatinho animado dirigindo um carro"/>
-  </a>
-</p>
 
 ---
 
