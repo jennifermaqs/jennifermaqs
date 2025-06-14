@@ -1,26 +1,29 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9370DB&center=true&width=435&lines=Ol%C3%A1!+Sou+a+Jennifer+%E2%9C%A8" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9370DB&center=true&width=435&lines=Oii!+Sou+a+Jennifer+%E2%9C%A8" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
   <a href="https://github.com/jennifermaqs">
-    <img src="https://raw.githubusercontent.com/jennifermaqs/jennifermaqs/main/cat.png" alt="gatinho" height="150px"/>
+    <img src="https://c.tenor.com/mimo5_nJ0oYAAAAC/cute-cutecore.gif" width="250px" alt="Gatinho animado dirigindo um carro"/>
   </a>
 </p>
 
+---
+
 <p align="center">
-  🎓 Estudante de Ciência da Computação | Universidade Federal do Ceará (UFC) 🎓
+  Estudante de Ciência da Computação | Universidade Federal do Ceará (UFC) 
+  
 </p>
 
 ---
 
 ### ✨ Sobre mim
 
-Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC), Campus Quixadá. Apaixonada por aprender e desenvolver soluções. Este repositório é um reflexo da minha jornada acadêmica, reunindo projetos que desenvolvi em diversas disciplinas.
+Sou estudante de Ciência da Computação. Este repositório é um reflexo da minha jornada acadêmica, reunindo projetos desenvolvidos em diversas disciplinas.
 
 ---
 
-### 🛠️ Habilidades & Tecnologias 🌟
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/C++-9370DB?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -46,16 +49,15 @@ Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifermaqs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifermaqs&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifermaqs&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifermaqs&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-
 ---
 
-### 📫 Entre em Contato
+### 📫 Contato
 
 <p align="center">
 <a href="https://instagram.com/jennifermqs" target="_blank"><img src="https://img.shields.io/badge/Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
