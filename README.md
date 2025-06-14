@@ -1,12 +1,12 @@
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td valign="middle">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=9370DB&width=400&lines=Oii!+✨;Sou+a+Jennifer+Marques" alt="Oii! Sou a Jennifer Marques" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=30&pause=1000&color=9370DB&width=400&center=true&lines=Oii!+✨;Sou+a+Jennifer+Marques" alt="Oii! Sou a Jennifer Marques" />
         </a>
       </td>
-      <td>
+      <td valign="middle">
         <a href="https://github.com/jennifermaqs">
           <img src="https://i.imgur.com/MeMgEf1.gif" width="150px" alt="Gatinho animado dirigindo um carro"/>
         </a>
@@ -15,14 +15,14 @@
   </table>
 </div>
 
----
+
 
 <p align="center">
   Estudante de Ciência da Computação | Universidade Federal do Ceará (UFC) 
   
 </p>
 
----
+
 
 ### ✨ Sobre mim
 
@@ -33,12 +33,11 @@
 
 
 <div align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 ---
