@@ -39,9 +39,9 @@ Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC
 | Disciplina | Projeto | Repositório |
 |---|---|:---:|
 | **Estrutura de Dados** | Projeto de Matrizes Esparsas em C++ | [🔗 Ver repositório](https://github.com/jennifermaqs/Projeto-ED) |
-| **Programação Orientada a Objetos** | Projetos diversos em Java | *Em breve...* |
-| **Programação Funcional** | Exercícios e práticas com Haskell | *Em breve...* |
-| **Fundamentos de Banco de Dados** | Códigos SQL com PostgreSQL | *Em breve...* |
+| **Programação Orientada a Objetos** | Projetos diversos em Java | [🔗 Ver repositório](https://github.com/jennifermaqs/POO)|
+| **Programação Funcional** | Exercícios e práticas com Haskell | [🔗 Ver repositório](https://github.com/jennifermaqs/Funcional) |
+| **Fundamentos de Banco de Dados** | Códigos SQL com PostgreSQL |[🔗 Ver repositório](https://github.com/jennifermaqs/FBD) |
 
 <p align="center"><i>Novos projetos serão adicionados conforme meu avanço no curso! </i></p>
 
