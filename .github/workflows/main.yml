@@ -1,35 +1,27 @@
-# Nome da GitHub Action
 name: Generate GitHub Snake
 
-# Controles de quando a automação vai rodar
 on:
-  # Roda automaticamente a cada 12 horas
   schedule:
     - cron: "0 */12 * * *"
-  
-  # Permite que você rode essa automação manualmente pela aba Actions
   workflow_dispatch:
 
-# O que a automação vai fazer
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    permissions: 
+      contents: write
+      
     steps:
-      # Puxa o seu repositório para a automação
       - uses: actions/checkout@v4
 
-      # Gera a animação da cobrinha
       - uses: Platane/snk@v3
         with:
-          # O ID do seu usuário no GitHub
           github_user_name: ${{ github.repository_owner }}
-          
-          # Arquivos de saída
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             
-      # Publica os arquivos gerados em um branch chamado "output"
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
