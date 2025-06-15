@@ -67,9 +67,11 @@
 ### 🌟 Contribuições
 
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Gráfico de Atividade da Jennifer" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jennifermaqs&bg_color=00000000&color=ffffff&line=9370DB&point=e0c3fc&area=true&hide_border=true" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jennifermaqs/jennifermaqs/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jennifermaqs/jennifermaqs/output/snake-light.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/jennifermaqs/jennifermaqs/output/snake-light.svg" />
+  </picture>
 </div>
 
 ---
