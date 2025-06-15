@@ -67,11 +67,7 @@
 ### 🌟 Contribuições
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jennifermaqs/jennifermaqs/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jennifermaqs/jennifermaqs/output/snake-light.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/jennifermaqs/jennifermaqs/output/snake-light.svg" />
-  </picture>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/jennifermaqs/jennifermaqs/output/snake.svg" />
 </div>
 
 ---
