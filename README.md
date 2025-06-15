@@ -51,13 +51,13 @@ Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC
 
 ### 📊 Estatísticas no GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifermaqs&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifermaqs&layout=compact&langs_count=7&theme=catppuccin_mocha"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifermaqs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifermaqs&layout=compact&langs_count=4&theme=github_dark"/>
 </div>
 
 ---
 
-
+### 🐍 Minhas Contribuições
 <div align="center">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/jennifermaqs/jennifermaqs/output/snake.svg" />
 </div>
