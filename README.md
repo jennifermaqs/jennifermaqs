@@ -43,13 +43,14 @@ Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC
 | **Programação Funcional** | Exercícios e práticas com Haskell | *Em breve...* |
 | **Fundamentos de Banco de Dados** | Códigos SQL com PostgreSQL | *Em breve...* |
 
-<p align="center"><i>Novos projetos serão adicionados conforme meu avanço no curso! 🚀</i></p>
+<p align="center"><i>Novos projetos serão adicionados conforme meu avanço no curso! </i></p>
 
 ---
 
 ### 📊 Estatísticas no GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifermaqs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifermaqs&layout=compact&langs_count=4&theme=github_dark"/>
 </div>
 
