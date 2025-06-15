@@ -21,7 +21,7 @@ jobs:
           
           
           outputs: |
-            dist/snake.svg?color_dots=d8b9ff,b384f5,8d4de6,62258a&color_snake=9370DB&color_empty=00000000
+            dist/snake.svg?color_dots=%23d8b9ff,%23b384f5,%238d4de6,%2362258a&color_snake=%239370DB&color_empty=00000000
             
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
