@@ -19,6 +19,8 @@
  🎓 Estudante de Ciência da Computação | Universidade Federal do Ceará (UFC) 🎓
 </p>
 
+
+
 ### ✨ Sobre mim
 Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC). Este repositório é um reflexo da minha jornada acadêmica, reunindo projetos que desenvolvi em diversas disciplinas.
 
