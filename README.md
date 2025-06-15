@@ -55,8 +55,6 @@ Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifermaqs&layout=compact&langs_count=4&theme=github_dark"/>
 </div>
 
----
-
 
 <div align="center">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/jennifermaqs/jennifermaqs/output/snake.svg" />
