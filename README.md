@@ -67,7 +67,9 @@
 ### 🌟 Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jennifermaqs/jennifermaqs/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Gráfico de Atividade da Jennifer" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jennifermaqs&bg_color=00000000&color=ffffff&line=9370DB&point=e0c3fc&area=true&hide_border=true" />
+  </a>
 </div>
 
 ---
