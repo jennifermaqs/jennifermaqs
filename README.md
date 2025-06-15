@@ -16,9 +16,9 @@
 </div>
 
 <p align="center">
- 🎓 Estudante de Ciência da Computação | Universidade Federal do Ceará (UFC) 🎓
+  Estudante de Ciência da Computação na UFC<br>
+  <b>Entusiasta de programação e tecnologia</b>
 </p>
-
 
 
 ### ✨ Sobre mim
