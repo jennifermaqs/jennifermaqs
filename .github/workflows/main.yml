@@ -15,36 +15,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      # Puxa o seu repositório para a automação
+      - uses: actions/checkout@v4
 
       # Gera a animação da cobrinha
       - uses: Platane/snk@v3
-        id: snake-gif
         with:
           # O ID do seu usuário no GitHub
           github_user_name: ${{ github.repository_owner }}
           
-          # Lista de arquivos de saída
-          # O primeiro gera a animação em SVG, o segundo em GIF para compatibilidade
+          # Arquivos de saída
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=9370DB
-        env:
-          # Token de acesso do GitHub, necessário para ler suas contribuições
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      # Envia os arquivos gerados de volta para o seu repositório
-      - run: git status
-      
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+            
+      # Publica os arquivos gerados em um branch chamado "output"
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
