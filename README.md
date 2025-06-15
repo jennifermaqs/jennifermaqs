@@ -57,7 +57,7 @@ Sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC
 
 ---
 
-### 🐍 Minhas Contribuições
+
 <div align="center">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/jennifermaqs/jennifermaqs/output/snake.svg" />
 </div>
