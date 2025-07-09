@@ -26,24 +26,23 @@
 
 
 
-<div align="center">
+ <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
 </div>
 
 ---
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifermaqs&show_icons=true&hide_border=true&title_color=9370DB&text_color=9370DB&icon_color=9370DB&bg_color=00000000&include_all_commits=true&count_private=true"/>
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=jennifermaqs&layout=compact&langs_count=8&hide_border=true&title_color=9370DB&text_color=9370DB&icon_color=9370DB&bg_color=00000000&include_all_commits=true&count_private=true" />
 
 
-### 📊 Estatísticas no GitHub
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifermaqs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
-
-<div align="center">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/jennifermaqs/jennifermaqs/output/snake.svg" />
 </div>
 
