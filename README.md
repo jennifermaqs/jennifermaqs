@@ -50,7 +50,7 @@
 
 ### 🔮 Contato
 <p align="center">
-<a href="https://instagram.com/jennifermqs" target="_blank"><img src="https://img.shields.io/badge/Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/jennifermqs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:mqsjennifer@gmail.com"><img src="https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jennifer-marques-97b32136b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p> 
