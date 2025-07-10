@@ -43,7 +43,7 @@
 
 <div align="center"> 
 
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/jennifermaqs/jennifermaqs/output/snake.svg" />
+<img alt="Snake animation" src="https://raw.githubusercontent.com/jennifermaqs/jennifermaqs/output/github-snake.svg" />
 </div>
 
 ---
