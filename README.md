@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  Estudante de Ciência da Computação | Universidade Federal do Ceará (UFC) 🪻
+ 🪻 Estudante de Ciência da Computação | Universidade Federal do Ceará (UFC) 🪻
 </p>
 
 <div align="center">
