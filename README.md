@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
- 🎓 Estudante de Ciência da Computação | Universidade Federal do Ceará (UFC) 🎓
+  Estudante de Ciência da Computação | Universidade Federal do Ceará (UFC) 🪻
 </p>
 
 <div align="center">
@@ -24,33 +24,33 @@
 
    Este repositório é um reflexo da minha jornada acadêmica, reunindo projetos que desenvolvi em diversas disciplinas.
 
+<div align="center">
+    <img align="center" alt="jennifer-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="jennifer-C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="jennifer-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="jennifer-Haskell" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
+    <img align="center" alt="jennifer-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="jennifer-PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  </div>
 
-
- <div align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
 
 ---
- 
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifermaqs&show_icons=true&hide_border=true&title_color=9370DB&text_color=9370DB&icon_color=9370DB&bg_color=00000000&include_all_commits=true&count_private=true"/>
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=jennifermaqs&layout=compact&langs_count=8&hide_border=true&title_color=9370DB&text_color=9370DB&icon_color=9370DB&bg_color=00000000&include_all_commits=true&count_private=true" />
 
 
 
-<div align="center">
+<div align="center"> 
 
   <img alt="Snake animation" src="https://raw.githubusercontent.com/jennifermaqs/jennifermaqs/output/snake.svg" />
 </div>
 
 ---
 
-### 📫 Contato
+### 🔮 Contato
 <p align="center">
 <a href="https://instagram.com/jennifermqs" target="_blank"><img src="https://img.shields.io/badge/Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:mqsjennifer@gmail.com"><img src="https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jennifer-marques-97b32136b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
+</p> 
