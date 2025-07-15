@@ -2,11 +2,11 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *" # Executa a cada 24 horas
-  workflow_dispatch: # Permite acionamento manual
+    - cron: "0 */24 * * *" 
+  workflow_dispatch: 
   push:
     branches:
-      - master # Aciona em push para a branch master
+      - master
 
 jobs:
   generate:
