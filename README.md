@@ -29,8 +29,9 @@
     <img align="center" alt="jennifer-C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="jennifer-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="jennifer-Haskell" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
+    <img align="center" alt="jennifer-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="jennifer-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="jennifer-PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="jennifer-PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
   </div>
 
 
