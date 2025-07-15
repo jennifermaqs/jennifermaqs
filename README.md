@@ -8,7 +8,7 @@
       </td>
       <td valign="middle">
         <a href="https://github.com/jennifermaqs">
-          <img src="https://i.imgur.com/MeMgEf1.gif" width="150px" alt="Gatinho animado dirigindo um carro"/>
+          <img src="https://i.imgur.com/MeMgEf1.gif" width="150px" alt="gatinho banhando"/>
         </a>
       </td>
     </tr>
