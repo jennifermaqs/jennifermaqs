@@ -23,17 +23,10 @@
 
 
    Este repositório é um reflexo da minha jornada acadêmica, reunindo projetos que desenvolvi em diversas disciplinas.
-
-<div align="center">
-    <img align="center" alt="jennifer-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="jennifer-C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="jennifer-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="jennifer-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="jennifer-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="jennifer-PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-  </div>
-
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,postgresql,mysql&perline=6" />
+    
 ---
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifermaqs&show_icons=true&hide_border=true&title_color=9370DB&text_color=9370DB&icon_color=9370DB&bg_color=00000000&include_all_commits=true&count_private=true"/>
