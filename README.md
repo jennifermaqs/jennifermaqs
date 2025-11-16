@@ -22,7 +22,9 @@
 <div align="center">
 
 
-   Este repositório é um reflexo da minha jornada acadêmica, reunindo projetos que desenvolvi em diversas disciplinas.
+   Este repositório é um reflexo da minha jornada acadêmica, reunindo projetos que desenvolvi em diversas disciplinas e estudos pessoais
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,c,cpp,python,postgresql,mysql&perline=6" />
