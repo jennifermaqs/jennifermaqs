@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,postgresql,mysql&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,postgresql,mysql,html,javascript,css&perline=6" />
     
 ---
 
