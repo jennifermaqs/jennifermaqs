@@ -31,9 +31,10 @@
     
 ---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jennifermaqs&show_icons=true&hide_border=true&title_color=9370DB&text_color=9370DB&icon_color=9370DB&bg_color=00000000&include_all_commits=true&count_private=true"/>
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=jennifermaqs&layout=compact&langs_count=8&hide_border=true&title_color=9370DB&text_color=9370DB&icon_color=9370DB&bg_color=00000000&include_all_commits=true&count_private=true" />
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-one.vercel.app/api?username=jennifermaqs&show_icons=true&title_color=9370DB&text_color=ffffff&icon_color=9370DB&bg_color=0d1117&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=jennifermaqs&layout=compact&langs_count=8&title_color=9370DB&text_color=ffffff&icon_color=9370DB&bg_color=0d1117" />
+</p>
 
 
 <div align="center"> 
