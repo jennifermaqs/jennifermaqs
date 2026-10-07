@@ -8,7 +8,7 @@
     </tr>
 </div>
 <p align="center">
-<b/>Olá, sou a Jennifer! ✨<b>
+<b/>Olá, me chamo Jennifer Marques! ✨<b>
 </p>
 <p align="center">
  🪻 Estudante de Ciência da Computação | Universidade Federal do Ceará (UFC) 🪻
