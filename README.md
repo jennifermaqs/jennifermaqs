@@ -1,20 +1,15 @@
 <div align="center">
-  <table>
     <tr>
       <td valign="middle">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&size=30&pause=1000&color=9370DB&width=400&center=true&lines=Oii!+✨;Sou+a+Jennifer+Marques" alt="Oii! Sou a Jennifer Marques" />
         </a>
-      </td>
       <td valign="middle">
-        <a href="https://github.com/jennifermaqs">
           <img src="https://i.imgur.com/MeMgEf1.gif" width="150px" alt="gatinho banhando"/>
         </a>
-      </td>
     </tr>
-  </table>
 </div>
-
+<p align="center">
+<b/>Olá, sou a Jennifer! ✨<b>
+</p>
 <p align="center">
  🪻 Estudante de Ciência da Computação | Universidade Federal do Ceará (UFC) 🪻
 </p>
@@ -37,10 +32,7 @@
 </p>
 
 
-<div align="center"> 
 
-<img alt="Snake animation" src="https://raw.githubusercontent.com/jennifermaqs/jennifermaqs/output/github-snake.svg" />
-</div>
 
 ---
 
